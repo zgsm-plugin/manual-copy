@@ -11,7 +11,7 @@ const config: Config = {
       {
         redirects: [
           {
-            to: '/docs/intro',
+            to: '/docs/guide/installation',
             from: '/',
           },
         ],
@@ -56,7 +56,7 @@ const config: Config = {
       logo: {
         alt: 'costrict logo',
         src: 'img/logo.svg',
-        href: '/docs/intro',
+        href: '/docs/guide/installation',
       },
       items: [
         {
