@@ -21,7 +21,7 @@ You can receive an **additional 50 Credits** by starring the Costrict open-sourc
 
 If you logged in with your GitHub account, simply follow the link below and star the Costrict project to receive your 50 Credits. The credits will be added to your account in about 2-3 minutes.
 
-**Link:** [https://github.com/zgsm-ai/constrict](https://github.com/zgsm-ai/constrict)
+**Link:** [https://github.com/zgsm-ai/costrict](https://github.com/zgsm-ai/costrict)
 
 ![alt text](img/image3.png)
 
@@ -44,7 +44,7 @@ If you logged in with your phone number, you must first bind your GitHub account
 2.  **Star the Project**
     After binding your account, click the link below and star the Costrict project to receive an additional 50 Credits. The credits should appear in your account within 2-3 minutes.
 
-    **Link:** [https://github.com/zgsm-ai/constrict](https://github.com/zgsm-ai/constrict)
+    **Link:** [https://github.com/zgsm-ai/costrict](https://github.com/zgsm-ai/costrict)
 
     ![alt text](img/image5.png)
 

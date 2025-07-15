@@ -2,8 +2,6 @@ name: Build
 
 on:
   push:
-    main:
-      - push
     tags:
       - 'v*.*.*'
 
@@ -76,4 +74,4 @@ jobs:
           target: runner
           platforms: linux/amd64
           push: true
-          tags: ${{ secrets.DOCKERHUB_REPOSITORY }}/constrict-manual:${{ steps.version.outputs.version }},${{ secrets.DOCKERHUB_REPOSITORY }}/constrict-manual:latest
+          tags: ${{ secrets.DOCKERHUB_REPOSITORY }}/costrict-manual:${{ steps.version.outputs.version }},${{ secrets.DOCKERHUB_REPOSITORY }}/costrict-manual:latest

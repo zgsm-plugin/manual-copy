@@ -18,7 +18,7 @@ const config: Config = {
       },
     ],
   ],
-  title: 'constrict',
+  title: 'costrict',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -27,7 +27,7 @@ const config: Config = {
   },
 
   url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/constrict/',
+  baseUrl: '/costrict/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -54,13 +54,13 @@ const config: Config = {
     navbar: {
       title: 'CONTRICT',
       logo: {
-        alt: 'constrict logo',
+        alt: 'costrict logo',
         src: 'img/logo.svg',
         href: '/docs/intro',
       },
       items: [
         {
-          href: 'https://github.com/zgsm-ai/constrict',
+          href: 'https://github.com/zgsm-ai/costrict',
           label: 'GitHub',
           position: 'right',
         },

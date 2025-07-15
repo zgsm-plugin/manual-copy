@@ -14,7 +14,7 @@ sidebar_position: 1
 
 场景1：Github账号登录的用户
 
-如果您是Github账号登录的用户，请点击链接地址：https://github.com/zgsm-ai/constrict  点亮star 收藏Costrict项目即可获得额外 50 Credit。到账大约需要2-3分钟。
+如果您是Github账号登录的用户，请点击链接地址：https://github.com/zgsm-ai/costrict  点亮star 收藏Costrict项目即可获得额外 50 Credit。到账大约需要2-3分钟。
 
 ![alt text](img/image3.png)
 
@@ -27,7 +27,7 @@ sidebar_position: 1
 
 ![alt text](img/image4.png)
 
-绑定后点击链接地址：https://github.com/zgsm-ai/constrict  点亮star 收藏Costrict项目即可获得额外 50 Credit。到账大约需要2-3分钟。
+绑定后点击链接地址：https://github.com/zgsm-ai/costrict  点亮star 收藏Costrict项目即可获得额外 50 Credit。到账大约需要2-3分钟。
 
 ![alt text](img/image5.png)
 
