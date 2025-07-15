@@ -2,49 +2,50 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Get credits
 
-**Let's discover **Docusaurus in less than 5 minutes**.**
+First, determine if you are logged in with a GitHub account or a phone number. If you are unsure which account you're using, you can visit the **User Info & Credit Usage** page. This page also shows your remaining Credit balance.
 
-## Getting Started
+If you logged in with a phone number, we recommend binding your GitHub account on this page. This will make it easy to receive Credit rewards from future GitHub-related promotional activities.
 
-Get started by **creating a new site**.
+![alt text](img/image1.png)
+![alt text](img/image2.png)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+---
 
-### What you'll need
+### Star on GitHub for 50 Extra Credits
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+You can receive an **additional 50 Credits** by starring the Costrict open-source project on GitHub.
 
-## Generate a new site
+### Scenario 1: For Users Logged In with GitHub
 
-Generate a new Docusaurus site using the **classic template**.
+If you logged in with your GitHub account, simply follow the link below and star the Costrict project to receive your 50 Credits. The credits will be added to your account in about 2-3 minutes.
 
-The classic template will automatically be added to your project after you run the command:
+**Link:** [https://github.com/zgsm-ai/constrict](https://github.com/zgsm-ai/constrict)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+![alt text](img/image3.png)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+After starring the project, you can return to the VSCode extension and continue using it.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+### Scenario 2: For Users Logged In with a Phone Number
 
-Run the development server:
+If you logged in with your phone number, you must first bind your GitHub account.
 
-```bash
-cd my-website
-npm run start
-```
+1.  **Bind Your GitHub Account**
+    Go to the **User Info & Credit Usage** page to bind your GitHub account. 
+    *(You can also navigate to this page from the VSCode extension by clicking **Settings > Credit Usage Management**, then the **"View Credit Usage"** button).*
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+    If you don't have a GitHub account, the system will guide you through the registration process.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+    ![alt text](img/image4.png)
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+2.  **Star the Project**
+    After binding your account, click the link below and star the Costrict project to receive an additional 50 Credits. The credits should appear in your account within 2-3 minutes.
 
+    **Link:** [https://github.com/zgsm-ai/constrict](https://github.com/zgsm-ai/constrict)
 
-测试在线修改
+    ![alt text](img/image5.png)
+
+After starring the project, you can return to the VSCode extension and continue using it.
