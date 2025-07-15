@@ -1,9 +1,0 @@
-{
-  "label": "Agent",
-  "position": 2,
-  "link": {
-    "title": "Agent总览",
-    "type": "generated-index",
-    "description": "查看文档, 学会如何使用agent"
-  }
-}
