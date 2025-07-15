@@ -48,8 +48,9 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
+            set -e
             echo "Connected to server!"
-            cd /home/docs
+            cd /home/zhuge/docs
             sudo docker compose pull
             sudo docker compose up -d --force-recreate
             echo "Deployment finished successfully!"
