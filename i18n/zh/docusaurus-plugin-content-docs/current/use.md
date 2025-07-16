@@ -285,7 +285,7 @@ git commit -m "docs: add contributing guide"  # 提交到工作区
 # 如果主线有改动是本地没有的
 # git pull --rebase origin main  # 不要直接 pull 会多一次合并提交
 
-git push -u origin feature/add-md:feature/add-md)  # 这样会在github个人仓库新建一个feature/add-md分支并提交
+git push -u origin feature/add-md:feature/add-md  # 这样会在github个人仓库新建一个feature/add-md分支并提交
 ```
 [其他 git 使用介绍参考](https://github.com/zgsm-ai/costrict/blob/main/assets/docs/devel/zh-CN/fork.md)
 
