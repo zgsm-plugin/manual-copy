@@ -291,3 +291,19 @@ git push -u origin feature/add-md:feature/add-md)  # 这样会在github个人仓
 
 :::info[完成上述操作后， 准备提交pr]
 :::
+
+
+> 首先检查下提交的内容和本地提交的是不是一致的， 点击后查看每个文件的改动
+
+![img.png](img/commit.png)
+
+确认无误后， 点击：
+
+![img.png](img/pr.png)
+
+确认下目标分支和提交分支是不是正确的， 没问题后， 点击create pull request, 遵守提交准则，即完成
+![img.png](img/check.png)
+
+<br/>
+:::info[合并到主线后会自动触发服务更新，可以在主仓库的 `Actions` 下查看]
+:::
