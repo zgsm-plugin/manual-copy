@@ -22,7 +22,7 @@ sidebar_position: 1
 
 ### 插件安装
 
-- 在 `vscode` 插件商城中搜索 `zgsm / shenma` 
+- 在 `vscode` 插件商城中搜索 `zgsm / shenma / costrict` 
 - 点击安装
 
 
